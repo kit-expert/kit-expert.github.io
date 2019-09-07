@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://kit-expert.github.io/stax.xsl"?>
+<FILE>
+	<SET>
+		<TNR>A0000000000</TNR>
+		<TNR2>A 000 000 00 00</TNR2>
+		<BENEN>VEHICLE DATA</BENEN>
+		<BENEN2>FAHRZEUGDATEN</BENEN2>
+		<LW>50</LW>
+		<RG>00</RG>
+		<TA>01</TA>
+		<MCODE>1PVP01</MCODE>
+		<LIEFBN></LIEFBN>
+		<KBFS></KBFS>
+		<GEW>20</GEW>
+		<ISINSTAMMSATZ></ISINSTAMMSATZ>
+		<DEALERPREIS>107,56</DEALERPREIS>
+		<RUBNDS>171,67</RUBNDS>
+		<LC></LC>
+		<VP1>0</VP1>
+		<VP2>0</VP2>
+		<EAC>Y</EAC>
+		<DVC>CC</DVC>
+		<DRT></DRT>
+	</SET>
+	<SET>
+		<TNR>A0000000300</TNR>
+		<TNR2>A 000 000 03 00</TNR2>
+		<BENEN>LICENSE</BENEN>
+		<BENEN2>LIZENZ</BENEN2>
+		<LW>50</LW>
+		<RG>57</RG>
+		<TA>57</TA>
+		<MCODE>1PF78C</MCODE>
+		<LIEFBN></LIEFBN>
+		<KBFS></KBFS>
+		<GEW>0</GEW>
+		<ISINSTAMMSATZ></ISINSTAMMSATZ>
+		<DEALERPREIS>16585,57</DEALERPREIS>
+		<RUBNDS>19902,68</RUBNDS>
+		<LC></LC>
+		<VP1>0</VP1>
+		<VP2>0</VP2>
+		<EAC>N</EAC>
+		<DVC>0C</DVC>
+		<DRT></DRT>
+	</SET>
+</FILE>
