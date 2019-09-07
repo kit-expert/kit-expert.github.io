@@ -8,7 +8,7 @@
     <tr>
       <th style="text-align:left">TNR</th>
     </tr>
-    <xsl:for-each select="SET">
+    <xsl:for-each select="FILE/SET">
     <tr>
       <td><xsl:value-of select="TNR"/></td>
      
