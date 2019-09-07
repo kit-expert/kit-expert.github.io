@@ -7,11 +7,16 @@
   <table border="1">
     <tr>
       <th style="text-align:left">TNR</th>
+      <th style="text-align:left">Group</th>
+      <th style="text-align:left">DEALERPREIS</th>
+      <th style="text-align:left">Date</th>
     </tr>
     <xsl:for-each select="FILE/SET">
     <tr>
       <td><xsl:value-of select="TNR"/></td>
-     
+      <td><xsl:value-of select="TNR"/></td>
+      <td><xsl:value-of select="DEALERPREIS"/></td>
+      <td><xsl:value-of select="TNR"/></td>
     </tr>
     </xsl:for-each>
   </table>
